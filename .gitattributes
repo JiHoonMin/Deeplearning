@@ -1,0 +1,2 @@
+fish_data.zip filter=lfs diff=lfs merge=lfs -text
+fish_data_small.zip filter=lfs diff=lfs merge=lfs -text
