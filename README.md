@@ -12,5 +12,5 @@
 
 
 
-## N ### [fishdata](https://github.com/JiHoonMin/deeplearning/tree/jihoon)
+## N ### [fishdata](https://github.com/JiHoonMin/deeplearning/blob/5ee6a1b36ee70d4cbb7f68ea8aae87c0c9ccbcf2/Fishdata_model.ipynb)
 ## N ### [fishdata_download](https://github.com/JiHoonMin/deeplearning/tree/jihoon)
